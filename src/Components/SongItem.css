@@ -1,0 +1,37 @@
+.track-details {
+    display: flex;
+    height: 60px;
+    margin: 40px;
+    align-items: center;
+}
+
+.track-details:hover {
+    opacity: 0.6;
+}
+
+#track-title {
+    cursor: pointer;
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+#track-artists {
+    margin-top: 0px;
+    
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    color: white;   
+}
+
+#track-title-link{
+    text-decoration: none;
+    color: white;
+}
+
+.track-information {
+    margin-left: 20px;
+}
+
+#track-image {
+    border-radius: 5px;
+}

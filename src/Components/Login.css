@@ -1,0 +1,52 @@
+body {
+  background-color:rgb(11, 199, 67);
+}
+
+#title-music-logo {
+  height: 36px;
+  width: 36px;
+  margin: 10px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+#title-name {
+  font-family: Comfortaa;
+  font-size: 26px;
+  font-weight: 700;
+  color: white;
+}
+
+#title-music-logo:hover {
+  animation-name: logo-dance;
+  animation-duration: 2s;
+}
+
+@keyframes logo-dance {
+  0% {transform: rotate(25deg);}
+  25% {transform: rotate(-50deg);}
+  50% {transform: rotate(25deg);}
+  75% {transform: rotate(-10deg);}
+  100% {transform: rotate(5deg);}
+}
+
+#login-button {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 26px;
+  border-radius: 10px;
+  font-family: Comfortaa;
+  font-weight: 700;
+  color: rgb(76, 201, 76);
+  background-color: white;
+  padding: 26px 80px 26px 80px;
+  position:relative;
+  top:150px;
+  left:40%;
+  text-decoration: none;
+  width: 100px;
+}
