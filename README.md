@@ -22,4 +22,6 @@ I've included some pictures of the application below:
 ![image](https://github.com/Adromidous/MusicMee/assets/110305385/dab2b167-1bbf-4a75-b2b4-702ce9e78f71)
 
 **SIMILAR SONG LIST**  
-![image](https://github.com/Adromidous/MusicMee/assets/110305385/752d80aa-7b42-4040-9db3-decf4f61ede5)
+![image](https://github.com/Adromidous/MusicMee/assets/110305385/752d80aa-7b42-4040-9db3-decf4f61ede5)  
+
+**ENJOY YOUR DAY AND TAKE CARE :)))**
