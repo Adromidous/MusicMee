@@ -24,4 +24,6 @@ I've included some pictures of the application below:
 **SIMILAR SONG LIST**  
 ![image](https://github.com/Adromidous/MusicMee/assets/110305385/752d80aa-7b42-4040-9db3-decf4f61ede5)  
 
+Credits: I used quite a few packages including the **Spotify Web API Node** which reduced most of the rough work for me so lots of credit to the creators of those packages!!!
+
 **ENJOY YOUR DAY AND TAKE CARE :)))**
